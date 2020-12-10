@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32a1cafd5714d18bce767c5e81776fb, type: 3}
+  m_Name: Take cocaine
+  m_EditorClassIdentifier: 
+  OnQuestCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  Goals:
+  - _description: 
+    _quest: {fileID: 11400000}
+    _isCompleted: 0
+    _currentAmount: 0
+    _requiredAmount: 1
+  _name: "\u041A\u043E\u043A\u0430\u0438\u043D"
+  _description: "\u0417\u0430\u0431\u0435\u0440\u0438 \u043A\u043E\u043A\u0430\u0438\u043D"
+  _experienceReward: 40
+  _isCompleted: 0
+  _isAssigned: 0
+  _level: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  _deadlineTime: 0
+  _itemObject: {fileID: 11400000, guid: 9a688e2f39036484aa0d1d5934ab3299, type: 2}
+  _stuffAmount: 3
+  _questIcon: {fileID: 7584802808651342616, guid: 5614834776633864aab1295fbee47fb0,
+    type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d35f43392ee0fe48a331d185d33ac13, type: 3}
+  m_Name: Dealer3 Chest
+  m_EditorClassIdentifier: 
+  savePath: /Inventory.Dealer3
+  slotCapacity: 10
+  money: 0
+  defaultMoney: 400
+  backpackCapacity: {fileID: 11400000, guid: 7b74a7c5df52a6846a7efad8d4c09da5, type: 2}
+  characterLevel: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  slots: []
+  defaultSlots: []
+  database: {fileID: 11400000, guid: 6a63aa55da679bc44aa2b0dc76cc56c1, type: 2}

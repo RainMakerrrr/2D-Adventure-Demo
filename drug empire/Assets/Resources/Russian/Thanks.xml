@@ -1,0 +1,12 @@
+<dialogue name="Thanks">
+  <_node id="0" npcText="Thank you for this job">
+    <answer text="Ok buy buy" toNode="1" />
+    <answer text="sdufhsuidhg" toNode="2" />
+  </_node>
+  <_node id="1" npcText="sdkfmdskf">
+    <answer text="kajdsikajdj" toNode="2" />
+  </_node>
+  <_node id="2" npcText="lakjslakjd">
+    <answer text="akjdskladjasd" exit="True" />
+  </_node>
+</dialogue>

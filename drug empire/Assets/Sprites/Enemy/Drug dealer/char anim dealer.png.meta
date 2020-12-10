@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: f48be0e0250757248bd2149fc76e8641
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7387830151573092695
+    second: char anim dealer_0
+  - first:
+      213: 4213058176772788420
+    second: char anim dealer_1
+  - first:
+      213: -8136915689392169958
+    second: char anim dealer_2
+  - first:
+      213: -4778479121819292193
+    second: char anim dealer_3
+  - first:
+      213: 7451199437913065606
+    second: char anim dealer_4
+  - first:
+      213: -5887975782704043867
+    second: char anim dealer_5
+  - first:
+      213: 3192483166367351917
+    second: char anim dealer_6
+  - first:
+      213: 7098421197028565928
+    second: char anim dealer_7
+  - first:
+      213: -5560619438757403598
+    second: char anim dealer_8
+  - first:
+      213: 7412230588105003132
+    second: char anim dealer_9
+  - first:
+      213: 8765410783834971339
+    second: char anim dealer_10
+  - first:
+      213: 8046677445404948202
+    second: char anim dealer_11
+  - first:
+      213: 861738100877035899
+    second: char anim dealer_12
+  - first:
+      213: -8579458742904802306
+    second: char anim dealer_13
+  - first:
+      213: -5777185848318234798
+    second: char anim dealer_14
+  - first:
+      213: 5876084832376052943
+    second: char anim dealer_15
+  - first:
+      213: 4831129161897765271
+    second: char anim dealer_16
+  - first:
+      213: 5108607988777199767
+    second: char anim dealer_17
+  - first:
+      213: -4017920246588647933
+    second: char anim dealer_18
+  - first:
+      213: 5962579665238333974
+    second: char anim dealer_19
+  - first:
+      213: 6600534370231553581
+    second: char anim dealer_20
+  - first:
+      213: 599817432241806869
+    second: char anim dealer_21
+  - first:
+      213: -1303039504649088803
+    second: char anim dealer_22
+  - first:
+      213: 6017021067501861547
+    second: char anim dealer_23
+  - first:
+      213: 6459435604829727059
+    second: char anim dealer_24
+  - first:
+      213: -6976934591857090569
+    second: char anim dealer_25
+  - first:
+      213: 4724169644946315832
+    second: char anim dealer_26
+  - first:
+      213: 2449488654345826379
+    second: char anim dealer_27
+  - first:
+      213: -14079016006477397
+    second: char anim dealer_28
+  - first:
+      213: 1895025143719024616
+    second: char anim dealer_29
+  - first:
+      213: -1808057700570905942
+    second: char anim dealer_30
+  - first:
+      213: 8378014994030910483
+    second: char anim dealer_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char anim dealer_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c09a9e97297990800000000000000
+      internalID: -7387830151573092695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 576
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d89c071ac77a30800000000000000
+      internalID: 4213058176772788420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 576
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c1a7eaa4ed31f80800000000000000
+      internalID: -8136915689392169958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 576
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd27516e8e6fadb0800000000000000
+      internalID: -4778479121819292193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 528
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688066f196af76760800000000000000
+      internalID: 7451199437913065606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 528
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a2d1b835b94ea0800000000000000
+      internalID: -5887975782704043867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 528
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648dba768afd4c20800000000000000
+      internalID: 3192483166367351917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 528
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3adfa3878a28260800000000000000
+      internalID: 7098421197028565928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 528
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234abb5f416b4d2b0800000000000000
+      internalID: -5560619438757403598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 528
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70984db2788dd660800000000000000
+      internalID: 7412230588105003132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 528
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc9cd0baaef4a970800000000000000
+      internalID: 8765410783834971339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 528
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae67283e08a8baf60800000000000000
+      internalID: 8046677445404948202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 480
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790230bc3285fb00800000000000000
+      internalID: 861738100877035899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 480
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33a00bab3afe880800000000000000
+      internalID: -8579458742904802306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fe39d641053dfa0800000000000000
+      internalID: -5777185848318234798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 480
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd5dfa50c0c8150800000000000000
+      internalID: 5876084832376052943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 480
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79962f6506e9b0340800000000000000
+      internalID: 4831129161897765271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 480
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798a9c336eb65e640800000000000000
+      internalID: 5108607988777199767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306db36d2da7d38c0800000000000000
+      internalID: -4017920246588647933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 480
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9f7b4d965fb250800000000000000
+      internalID: 5962579665238333974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 432
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8861e90fc99b50800000000000000
+      internalID: 6600534370231553581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 432
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1cd2d6caf25800800000000000000
+      internalID: 599817432241806869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 432
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0171d697caaede0800000000000000
+      internalID: -1303039504649088803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 432
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7d7608c0c08350800000000000000
+      internalID: 6017021067501861547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 432
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e263857684a950800000000000000
+      internalID: 6459435604829727059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 432
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff193f34f2fc2f90800000000000000
+      internalID: -6976934591857090569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a55b9234f9f8140800000000000000
+      internalID: 4724169644946315832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f1a304f45ef120800000000000000
+      internalID: 2449488654345826379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 384
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba99524a53bfdcff0800000000000000
+      internalID: -14079016006477397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 384
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75ec3f35b7c4a10800000000000000
+      internalID: 1895025143719024616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 384
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2cf00d91d78e6e0800000000000000
+      internalID: -1808057700570905942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char anim dealer_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 384
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cdb1a9f30b44470800000000000000
+      internalID: 8378014994030910483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bd0b14842081c2649b34adad8ad7a4e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

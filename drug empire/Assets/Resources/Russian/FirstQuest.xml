@@ -1,0 +1,11 @@
+<dialogue name="FirstQuest">
+  <node id="0" npcText="У меня есть для тебя задание">
+    <answer text="Я слушаю." toNode="1" />
+  </node>
+  <node id="1" npcText="Тебе нужно поговорить с тем чуваком на другой стороне">
+    <answer text="ОКей будет сделано" toNode="2" />
+  </node>
+  <node id="2" npcText="Приходи сюда как поговоришь с ним">
+    <answer text="" exit="True" />
+  </node>
+</dialogue>

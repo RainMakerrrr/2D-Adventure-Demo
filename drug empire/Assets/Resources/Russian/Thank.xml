@@ -1,0 +1,8 @@
+<dialogue name="Thank">
+  <_node id="0" npcText="NIce job man">
+    <answer text="Thank you" />
+  </_node>
+  <_node id="1" npcText="">
+    <answer text="" exit="True" />
+  </_node>
+</dialogue>

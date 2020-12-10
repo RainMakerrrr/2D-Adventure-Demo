@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32a1cafd5714d18bce767c5e81776fb, type: 3}
+  m_Name: take item quest
+  m_EditorClassIdentifier: 
+  OnQuestCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  Goals:
+  - _description: "\u041F\u043E\u043B\u0443\u0447\u0438 \u0433\u0435\u0440\u043E\u0438\u043D\u0430
+      \u0432 \u0442\u043E\u043C \u043C\u0435\u0441\u0442\u0435"
+    _quest: {fileID: 11400000}
+    _isCompleted: 0
+    _currentAmount: 0
+    _requiredAmount: 1
+  _name: "\u0413\u0435\u0440"
+  _description: "\u043F\u043E\u043B\u0443\u0447\u0438 \u0433\u0435\u0440\u0430"
+  _experienceReward: 200
+  _isCompleted: 0
+  _isAssigned: 0
+  _level: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  _dialogueFile: 
+  _deadlineTime: 5
+  _itemObject: {fileID: 11400000, guid: e5976f3258af5d1459edd266ea464289, type: 2}
+  _backpack: {fileID: 11400000, guid: 1bd40590e11c8e64ba70368954a7301d, type: 2}
+  _stuffAmount: 6
+  _questIcon: {fileID: 7584802808651342616, guid: 5614834776633864aab1295fbee47fb0,
+    type: 3}

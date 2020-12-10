@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b888aecac6c174b904ea28e6bcc6f5, type: 3}
+  m_Name: ShopBlue
+  m_EditorClassIdentifier: 
+  savePath: /Inventory.SaveShopBlue
+  slotCapacity: 10
+  money: 1000
+  backpackCapacity: {fileID: 11400000, guid: 9a53dd90e04b56a4d9e1a7e37b6ab356, type: 2}
+  characterLevel: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  slots: []
+  defaultSlots:
+  - item: {fileID: 11400000, guid: 5f5cd1dc8dd64354598fd6029dc01351, type: 2}
+    _slotUI: {fileID: 0}
+    ID: 0
+    amount: 10
+    buyPrice: 0
+    sellPrice: 0
+  - item: {fileID: 11400000, guid: 6ad47d6dd3559e94abd9625e6d1ec686, type: 2}
+    _slotUI: {fileID: 0}
+    ID: 0
+    amount: 10
+    buyPrice: 0
+    sellPrice: 0
+  - item: {fileID: 11400000, guid: 882a475a7e5bda0408b67ea489f0c46f, type: 2}
+    _slotUI: {fileID: 0}
+    ID: 0
+    amount: 10
+    buyPrice: 0
+    sellPrice: 0
+  - item: {fileID: 11400000, guid: ff474176f01271f4486001e92726eec4, type: 2}
+    _slotUI: {fileID: 0}
+    ID: 0
+    amount: 10
+    buyPrice: 0
+    sellPrice: 0
+  - item: {fileID: 11400000, guid: 9a688e2f39036484aa0d1d5934ab3299, type: 2}
+    _slotUI: {fileID: 0}
+    ID: 0
+    amount: 10
+    buyPrice: 0
+    sellPrice: 0
+  database: {fileID: 11400000, guid: 6a63aa55da679bc44aa2b0dc76cc56c1, type: 2}

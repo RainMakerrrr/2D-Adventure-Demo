@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6237e08-8a01-4953-8792-19aeedff995a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Drug Empire/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Drug Empire/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Game State/TimelineManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Game State/TimelineManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Player/LevelSystem/LevelProgress.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Player/LevelSystem/LevelProgress.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Player/LevelSystem/New Character Level.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Player/LevelSystem/New Character Level.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Quest System/Phone/PhoneButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Quest System/Phone/PhoneButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Quest System/Quests/UI/QuestsUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Quest System/Quests/UI/QuestsUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Time system/Game time.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Time system/Game time.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Time system/GameTime.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Time system/GameTime.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Time system/House/HouseEnter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Time system/House/HouseEnter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Time system/House/HouseExit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Time system/House/HouseExit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Time system/TimeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Time system/TimeManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/pixel_cyr.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/pixel_cyr.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/pixel_cyr2 SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/pixel_cyr2 SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/NPC/Citizen Unit.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/NPC/Citizen Unit.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Map.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Map.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/CharacteristicSystem/UI/StatProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Dialogue System/UI/DialogueBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/NPC/Enemies/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/LevelSystem/CharacterLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/LevelSystem/LevelProgress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Quest System/Phone/PhoneButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/NPC/Friends/Paul.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Quest System/Phone/PhoneQuestPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/PlayerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/CharacteristicSystem/Stats/Speed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Time system/GameTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/UI/CharacteristicsButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/NPC/NonPlayerCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Game State/GameStateHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Time system/House/Bed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/NPC/IInteractable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/UI/PlayerAvatar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player/UI/BackpackButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/NPC/Citizen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/NPC/Enemies/Gang.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/Player/UI/CharacteristicsButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/UI/BackpackButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/Interactor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Laptop/UI/LaptopQuestUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Dialogue System/UI/DialogueForm.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/UI/PlayerAvatar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/LevelSystem/CharacterLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/InventorySystem/Backend/InventoryObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Russian/DealerCompletedQuest.xml" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Laptop/QuestGiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests/Item Quests/ItemQuest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Dialogue System/UI/DialogueBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/Friends/Paul.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Dialogue System/Core/DialogueManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Game State/GameStateHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/Enemies/Gang.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/Object Pool/GenericObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/Object Pool/CitizensObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/CitizensSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/Citizen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/PlayerTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/InventorySystem/Frontend/Physical/ChestPhysical.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/InventorySystem/Backend/InventoryBackpack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/InventorySystem/Frontend/DisplayInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests Receivers/HumanQuestReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests Receivers/ItemQuestReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Laptop/QuestGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/HouseLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/HouseExit.cs" />
+        <option value="$PROJECT_DIR$/Assets/HouseEnter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Phone/PhoneQuestPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests/UI/QuestPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/InventorySystem/Frontend/Physical/InventoryPhysical.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests/Quest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Time system/House/Bed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/Enemies/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/NPC/Enemies/Police.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests Receivers/AddressQuestReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests/UI/QuestsCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Game State/StartQuest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Laptop/LaptopQuestGiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Time system/TimeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Time system/GameTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Phone/PhoneButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Quest System/Quests/UI/QuestsUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player/LevelSystem/LevelProgress.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Time system/House/HouseExit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Time system/House/HouseEnter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Game State/TimelineManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1guIUYXj8ZihjgadmG0vAFknpAl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6237e08-8a01-4953-8792-19aeedff995a" name="Default Changelist" comment="" />
+      <created>1598958216088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598958216088</updated>
+      <workItem from="1598958265542" duration="14395000" />
+      <workItem from="1599037088320" duration="2820000" />
+      <workItem from="1599049185600" duration="11026000" />
+      <workItem from="1599136220063" duration="1935000" />
+      <workItem from="1599140569379" duration="993000" />
+      <workItem from="1599141667553" duration="1502000" />
+      <workItem from="1599315371528" duration="16847000" />
+      <workItem from="1599383009603" duration="11381000" />
+      <workItem from="1599485253569" duration="8591000" />
+      <workItem from="1599541536061" duration="9675000" />
+      <workItem from="1599645119862" duration="5447000" />
+      <workItem from="1599743309094" duration="6548000" />
+      <workItem from="1599819128167" duration="17657000" />
+      <workItem from="1599844397875" duration="9481000" />
+      <workItem from="1599899993344" duration="19763000" />
+      <workItem from="1599992065912" duration="9703000" />
+      <workItem from="1600019572570" duration="93000" />
+      <workItem from="1600019884836" duration="812000" />
+      <workItem from="1600172123533" duration="16131000" />
+      <workItem from="1600258810116" duration="4788000" />
+      <workItem from="1601047624740" duration="4994000" />
+      <workItem from="1601058162095" duration="242000" />
+      <workItem from="1601120117264" duration="1987000" />
+      <workItem from="1601194308602" duration="6819000" />
+      <workItem from="1601884127304" duration="2996000" />
+      <workItem from="1601899860523" duration="11460000" />
+      <workItem from="1601932936581" duration="7441000" />
+      <workItem from="1601971023658" duration="12745000" />
+      <workItem from="1602058445991" duration="16595000" />
+      <workItem from="1602319633005" duration="36478000" />
+      <workItem from="1602407561210" duration="37036000" />
+      <workItem from="1602487198876" duration="21707000" />
+      <workItem from="1602594123045" duration="13282000" />
+      <workItem from="1602763987952" duration="6823000" />
+      <workItem from="1602833644621" duration="18664000" />
+      <workItem from="1602922892325" duration="9576000" />
+      <workItem from="1603010646069" duration="10379000" />
+      <workItem from="1603097573765" duration="8723000" />
+      <workItem from="1603176718188" duration="7425000" />
+      <workItem from="1603275644077" duration="265000" />
+      <workItem from="1603312803964" duration="2907000" />
+      <workItem from="1603369390154" duration="10396000" />
+      <workItem from="1603443059062" duration="16639000" />
+      <workItem from="1603478075020" duration="1920000" />
+      <workItem from="1603968603509" duration="2388000" />
+      <workItem from="1604045719209" duration="10715000" />
+      <workItem from="1604136279264" duration="12066000" />
+      <workItem from="1604227842039" duration="13875000" />
+      <workItem from="1604326945585" duration="11237000" />
+      <workItem from="1604395842735" duration="10849000" />
+      <workItem from="1604483517858" duration="22379000" />
+      <workItem from="1604570272353" duration="3661000" />
+      <workItem from="1604660755403" duration="4614000" />
+      <workItem from="1604866302045" duration="6354000" />
+      <workItem from="1604928534025" duration="3489000" />
+      <workItem from="1605170722259" duration="23114000" />
+      <workItem from="1605256710849" duration="7092000" />
+      <workItem from="1605349635569" duration="6035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1603119677366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1603119677366" />
+    <state x="791" y="221" key="RiderGenerateDialog" timestamp="1602936885556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="791" y="221" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602936885556" />
+    <state x="788" y="230" key="RollbackChangesDialog" timestamp="1604150554602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604150554602" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1599054677984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599054677984" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1602238166532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602238166532" />
+    <state x="777" y="199" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598983467084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="199" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598983467084" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1603470548644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603470548644" />
+    <state x="1131" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1605363935602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1131" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605363935602" />
+  </component>
+</project>

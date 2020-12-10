@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Александр\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Александр\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Drug empire.1732671518.00" t="ExcludeRecursive" />
+    <e p="F:\Drug Empire" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Dialogue System" t="Include">
+            <e p="Core" t="Include">
+              <e p="DialogueGenerator.cs" t="Include" />
+              <e p="DialogueManager.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="ButtonComponent.cs" t="Include" />
+              <e p="DialogueBox.cs" t="Include" />
+              <e p="DialogueForm.cs" t="Include" />
+            </e>
+          </e>
+          <e p="EditorTools" t="Include">
+            <e p="TransparencySort.cs" t="Include" />
+          </e>
+          <e p="Game State" t="Include">
+            <e p="GameStateHandler.cs" t="Include" />
+            <e p="StartQuest.cs" t="Include" />
+            <e p="TimelineManager.cs" t="Include" />
+          </e>
+          <e p="InventorySystem" t="Include">
+            <e p="Backend" t="Include">
+              <e p="DrugObject.cs" t="Include" />
+              <e p="InventoryBackpack.cs" t="Include" />
+              <e p="InventoryChest.cs" t="Include" />
+              <e p="InventoryObject.cs" t="Include" />
+              <e p="InventoryShop.cs" t="Include" />
+              <e p="ItemDatabase.cs" t="Include" />
+              <e p="ItemObject.cs" t="Include" />
+              <e p="UsableObject.cs" t="Include" />
+              <e p="WeaponObject.cs" t="Include" />
+            </e>
+            <e p="Frontend" t="Include">
+              <e p="DisplayInventory.cs" t="Include" />
+              <e p="DisplayToolbar.cs" t="Include" />
+              <e p="Physical" t="Include">
+                <e p="ChestPhysical.cs" t="Include" />
+                <e p="InventoryPhysical.cs" t="Include" />
+                <e p="ItemPhysical.cs" t="Include" />
+                <e p="ShopPhysical.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="ExchangeUI.cs" t="Include" />
+                <e p="InventoryUI.cs" t="Include" />
+                <e p="SlotMiniUI.cs" t="Include" />
+                <e p="SlotUI.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Localisation" t="Include">
+            <e p="LocalizationData.cs" t="Include" />
+            <e p="LocalizationManager.cs" t="Include" />
+            <e p="LocalizedText.cs" t="Include" />
+          </e>
+          <e p="NPC" t="Include">
+            <e p="@Archived" t="Include">
+              <e p="CitizensSpawner.cs" t="Include" />
+              <e p="Object Pool" t="Include">
+                <e p="CitizensObjectPool.cs" t="Include" />
+                <e p="GenericObjectPool.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Citizen.cs" t="Include" />
+            <e p="Enemies" t="Include">
+              <e p="Enemy.cs" t="Include" />
+              <e p="Gang.cs" t="Include" />
+              <e p="Police.cs" t="Include" />
+            </e>
+            <e p="Friends" t="Include">
+              <e p="Paul.cs" t="Include" />
+            </e>
+            <e p="IInteractable.cs" t="Include" />
+            <e p="NonPlayerCharacter.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="CharacteristicSystem" t="Include">
+              <e p="Stats" t="Include">
+                <e p="BackpackCapacity.cs" t="Include" />
+                <e p="CharacterStats.cs" t="Include" />
+                <e p="Endurance.cs" t="Include" />
+                <e p="Health.cs" t="Include" />
+                <e p="KnifingDamage.cs" t="Include" />
+                <e p="Perception.cs" t="Include" />
+                <e p="Restoration.cs" t="Include" />
+                <e p="ShotAccuracy.cs" t="Include" />
+                <e p="Speed.cs" t="Include" />
+                <e p="Stealing.cs" t="Include" />
+                <e p="Stealth.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="StatProgressBar.cs" t="Include" />
+                <e p="UpgradeSkillButton.cs" t="Include" />
+              </e>
+            </e>
+            <e p="FadeDistance.cs" t="Include" />
+            <e p="Interactor.cs" t="Include" />
+            <e p="LevelSystem" t="Include">
+              <e p="CharacterLevel.cs" t="Include" />
+              <e p="LevelProgress.cs" t="Include" />
+            </e>
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+            <e p="PlayerTest.cs" t="Include" />
+            <e p="UI" t="Include">
+              <e p="BackpackButton.cs" t="Include" />
+              <e p="CharacteristicsButton.cs" t="Include" />
+              <e p="InteractionButton.cs" t="Include" />
+              <e p="PlayerAvatar.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Quest System" t="Include">
+            <e p="Laptop" t="Include">
+              <e p="LaptopQuestGiver.cs" t="Include" />
+              <e p="QuestGenerator.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="LaptopCustomer.cs" t="Include" />
+                <e p="LaptopQuestPanel.cs" t="Include" />
+                <e p="LaptopQuestUI.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Phone" t="Include">
+              <e p="PhoneButton.cs" t="Include" />
+              <e p="PhoneQuestPanel.cs" t="Include" />
+            </e>
+            <e p="Quests" t="Include">
+              <e p="Dialogue Quest" t="Include">
+                <e p="DIalogueQuest.cs" t="Include" />
+              </e>
+              <e p="Goals" t="Include">
+                <e p="Goal.cs" t="Include" />
+              </e>
+              <e p="Item Quests" t="Include">
+                <e p="DeliveryAddressItemQuest.cs" t="Include" />
+                <e p="DeliveryPersonItemQuest.cs" t="Include" />
+                <e p="ItemQuest.cs" t="Include" />
+                <e p="TakeItemQuest.cs" t="Include" />
+              </e>
+              <e p="Quest.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="QuestPanel.cs" t="Include" />
+                <e p="QuestPointer.cs" t="Include" />
+                <e p="QuestsCollection.cs" t="Include" />
+                <e p="QuestsUI.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Quests Receivers" t="Include">
+              <e p="AddressQuestReceiver.cs" t="Include" />
+              <e p="HumanQuestReceiver.cs" t="Include" />
+              <e p="ItemQuestReceiver.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Time system" t="Include">
+            <e p="GameTime.cs" t="Include" />
+            <e p="House" t="Include">
+              <e p="Bed.cs" t="Include" />
+              <e p="HouseEnter.cs" t="Include" />
+              <e p="HouseExit.cs" t="Include" />
+            </e>
+            <e p="TimeManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="DialogueGeneratorEditor.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Russian" t="Include">
+            <e p="DealerCompletedQuest.xml" t="Include" />
+            <e p="DealerUnCompletedQuest.xml" t="Include" />
+            <e p="Drug dealer dialogue" t="Include">
+              <e p="DealerQuestCompleted.xml" t="Include" />
+              <e p="DealerQuestUnCompleted.xml" t="Include" />
+            </e>
+            <e p="Example.xml" t="Include" />
+            <e p="FirstQuest.xml" t="Include" />
+            <e p="FirstQuestCompleted.xml" t="Include" />
+            <e p="FirstQuestDialogue.xml" t="Include" />
+            <e p="PaulDialogue.xml" t="Include" />
+            <e p="SecondQuestDialogue.xml" t="Include" />
+            <e p="Thank.xml" t="Include" />
+            <e p="Thanks.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="SpriteOccluded.shader" t="Include" />
+          <e p="SpriteOccluder.shader" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="Oswald-Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="DropdownSample.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Drug Empire.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

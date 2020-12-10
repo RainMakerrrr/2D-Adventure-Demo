@@ -1,0 +1,9 @@
+<dialogue name="Example">
+  <_node id="0" NpcText="Hey bro how are you">
+    <answer Text="I am okay" ToNode="1" />
+    <answer Text="Yeah goodbuy" Exit="True" />
+  </_node>
+  <_node id="1" NpcText="Nice to hear you">
+    <answer Text="Ok goodbuy" Exit="True" />
+  </_node>
+</dialogue>

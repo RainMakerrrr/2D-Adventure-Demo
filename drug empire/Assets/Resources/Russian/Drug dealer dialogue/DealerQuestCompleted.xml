@@ -1,0 +1,11 @@
+<dialogue name="DealerQuestCompleted">
+  <node id="0" npcText="Ты принёс, то что должен был?">
+    <answer text="Да" toNode="1" />
+  </node>
+  <node id="1" npcText="Хорошо, дай мне посмотреть минутку">
+    <answer text="" toNode="2" />
+  </node>
+  <node id="2" npcText="Окей, вижу, что всё в порядке. Ладно до встречи.">
+    <answer text="Угу" exit = "True"/>
+  </node>
+</dialogue>

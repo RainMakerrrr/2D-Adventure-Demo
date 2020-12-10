@@ -1,0 +1,12 @@
+<dialogue name="PaulDialogue">
+  <node id="0" npcText="Привет, чувак, как жизнь.">
+    <answer text="Я в порядке" toNode="1" />
+  </node>
+  <node id="1" npcText="Окей, у меня для тебя кое-что есть.">
+    <answer text="Я слушаю" toNode="2" />
+  </node>
+  <node id="2" npcText="У меня есть некий стафф, не хочешь доставить его по адресу?">
+    <answer text="Да" exit="True" />
+    <answer text="Нет" exit="True" />
+  </node>
+</dialogue>

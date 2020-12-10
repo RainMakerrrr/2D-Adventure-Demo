@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693bcdb3d5ed4238b78965390b211832, type: 3}
+  m_Name: Restoration
+  m_EditorClassIdentifier: 
+  _name: 
+  _startValue: 10
+  _maxValue: 100
+  _health: {fileID: 11400000, guid: 457eba8c5834dc14d8bbdf11c47f83e8, type: 2}
+  _endurance: {fileID: 11400000, guid: 9ee6d7e336f89ac4588085ea7528bc73, type: 2}

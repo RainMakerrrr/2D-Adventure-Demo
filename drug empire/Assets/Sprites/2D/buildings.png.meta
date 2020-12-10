@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 566bac889d5dc49468b8ecd194142d58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1168926902407322946
+    second: pharmacy
+  - first:
+      213: 7643761922474946111
+    second: police station
+  - first:
+      213: -5308527982003062785
+    second: supermarket
+  - first:
+      213: -8922806545422484088
+    second: restaurant
+  - first:
+      213: -7916908332688520428
+    second: shop
+  - first:
+      213: 6625692385018236696
+    second: house 1
+  - first:
+      213: 8255314341044953143
+    second: house 2
+  - first:
+      213: -7657187661756687099
+    second: house 3
+  - first:
+      213: 961677336216162819
+    second: furniture store
+  - first:
+      213: -250298321781293072
+    second: farmhouse
+  - first:
+      213: 3247767813255465682
+    second: slum 1
+  - first:
+      213: 1775660474302345089
+    second: slum 2
+  - first:
+      213: -2434219546015377611
+    second: dirt
+  - first:
+      213: -4401666002738899813
+    second: stairs
+  - first:
+      213: -7025564087743128460
+    second: park
+  - first:
+      213: -3636880086547968531
+    second: square
+  - first:
+      213: 5231429416509325250
+    second: bar
+  - first:
+      213: 2704936167174187159
+    second: manor
+  - first:
+      213: 2982747736380097290
+    second: garden short_1
+  - first:
+      213: 7728155859371869844
+    second: garden corner_1
+  - first:
+      213: 7853409770426767552
+    second: garden long_1
+  - first:
+      213: -8408605906689737264
+    second: bench
+  - first:
+      213: 3116890992287099372
+    second: gas station
+  - first:
+      213: -1982699832059996296
+    second: gas station roof
+  - first:
+      213: -2372858853108239839
+    second: post 1
+  - first:
+      213: -949520196465937679
+    second: post 2
+  - first:
+      213: 1859044697333390108
+    second: club_1
+  - first:
+      213: 8409850866217720047
+    second: club_2
+  - first:
+      213: 3904437874796018803
+    second: club_3
+  - first:
+      213: 6954640590311822032
+    second: club_4
+  - first:
+      213: -2122265095124828842
+    second: pond_1
+  - first:
+      213: 4396787550392057894
+    second: pond_2
+  - first:
+      213: -3672849306489802619
+    second: pond_3
+  - first:
+      213: -1809823593996493762
+    second: pond_4
+  - first:
+      213: -3485005380112733999
+    second: house 2_roof
+  - first:
+      213: -3485005380112733999
+    second: dirtTileU
+  - first:
+      213: -1241130063186274795
+    second: garden corner_2
+  - first:
+      213: -2431970054147871014
+    second: gasSign
+  - first:
+      213: -5735208376265150031
+    second: benchGas
+  - first:
+      213: -268033058649125426
+    second: post 3
+  - first:
+      213: -3113150776242979069
+    second: gas station_ground
+  - first:
+      213: -8467380218037671060
+    second: foodCart_1
+  - first:
+      213: 972298568835977908
+    second: foodCart_2
+  - first:
+      213: 266661395192906341
+    second: house abandoned_1
+  - first:
+      213: 2377714009155867808
+    second: house abandoned_2
+  - first:
+      213: 7387014411047688833
+    second: house abandoned_3
+  - first:
+      213: 5323238800349678525
+    second: garden long_2
+  - first:
+      213: -4497123338422308780
+    second: garden short_3
+  - first:
+      213: 6977622308967116915
+    second: garden short_2
+  - first:
+      213: -3336161717908047921
+    second: weapon shop
+  - first:
+      213: 2153917062290126008
+    second: shop abandoned
+  - first:
+      213: -968606550501179275
+    second: dirtTileD
+  - first:
+      213: 815176474227747173
+    second: dirtTileC
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pharmacy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1947
+        width: 174
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dd26213dcd83010800000000000000
+      internalID: 1168926902407322946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police station
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1932
+        width: 219
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea6c858f8141a60800000000000000
+      internalID: 7643761922474946111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1915
+        width: 254
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff77c781de15456b0800000000000000
+      internalID: -5308527982003062785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: restaurant
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1898
+        width: 286
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dff84d8b2db2480800000000000000
+      internalID: -8922806545422484088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1828
+        width: 154
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b45c621dd712290800000000000000
+      internalID: -7916908332688520428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 243
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fc508ae1033fb50800000000000000
+      internalID: 6625692385018236696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 961
+        width: 240
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302c2797a4c09270800000000000000
+      internalID: 8255314341044953143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house 3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 962
+        width: 240
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1d7224643cb590800000000000000
+      internalID: -7657187661756687099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture store
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 966
+        width: 305
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30255bd2170985d00800000000000000
+      internalID: 961677336216162819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmhouse
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1685
+        width: 164
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff7952a003c68cf0800000000000000
+      internalID: -250298321781293072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slum 1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1680
+        width: 168
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da0a066e93621d20800000000000000
+      internalID: 3247767813255465682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slum 2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1686
+        width: 164
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2e742bc964a810800000000000000
+      internalID: 1775660474302345089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537d07e483ae73ed0800000000000000
+      internalID: -2434219546015377611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1936
+        width: 20
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9495de67142ae2c0800000000000000
+      internalID: -4401666002738899813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: park
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 706
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c545b6fae208e90800000000000000
+      internalID: -7025564087743128460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1189
+        width: 299
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedcd9e84d4378dc0800000000000000
+      internalID: -3636880086547968531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bar
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 963
+        width: 238
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf31964655c99840800000000000000
+      internalID: 5231429416509325250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manor
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1196
+        width: 443
+        height: 373
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982688dc1dd98520800000000000000
+      internalID: 2704936167174187159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden short_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 772
+        width: 35
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0349815349d46920800000000000000
+      internalID: 2982747736380097290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden corner_1
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 739
+        width: 78
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c6befeccef3b60800000000000000
+      internalID: 7728155859371869844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden long_1
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 739
+        width: 53
+        height: 144
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89ed9b39aecfc60800000000000000
+      internalID: 7853409770426767552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bench
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 739
+        width: 138
+        height: 32
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb1838a71ae4b80800000000000000
+      internalID: -8408605906689737264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas station
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 295
+        height: 159
+      alignment: 9
+      pivot: {x: 0.53898305, y: 0.22641508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce923eee7db614b20800000000000000
+      internalID: 3116890992287099372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas station roof
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1579
+        width: 135
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87756dde1090c74e0800000000000000
+      internalID: -1982699832059996296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post 1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1533
+        width: 14
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122b75ee179e11fd0800000000000000
+      internalID: -2372858853108239839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post 2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1533
+        width: 15
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2b69e7960a2d2f0800000000000000
+      internalID: -949520196465937679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_1
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 963
+        width: 234
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b51267d47acc910800000000000000
+      internalID: 1859044697333390108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_2
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1101
+        width: 234
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81be63ecac5b470800000000000000
+      internalID: 8409850866217720047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_3
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1239
+        width: 234
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3cce7f895f2630800000000000000
+      internalID: 3904437874796018803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_4
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1377
+        width: 234
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29c0605c8d38060800000000000000
+      internalID: 6954640590311822032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pond_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1325
+        width: 193
+        height: 135
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dbfd5e3233c82e0800000000000000
+      internalID: -2122265095124828842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pond_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1325
+        width: 193
+        height: 135
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6208afd5bf6840d30800000000000000
+      internalID: 4396787550392057894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pond_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1190
+        width: 193
+        height: 135
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b22de30b670dc0800000000000000
+      internalID: -3672849306489802619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pond_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1190
+        width: 193
+        height: 135
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd7b5b70732e6e0800000000000000
+      internalID: -1809823593996493762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtTileU
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1689
+        width: 118
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4969325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d82e063216c2afc0800000000000000
+      internalID: -3485005380112733999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden corner_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 739
+        width: 69
+        height: 96
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51659b788ce96cee0800000000000000
+      internalID: -1241130063186274795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasSign
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1556
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.825, y: 0.017391304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adee022fe18ef3ed0800000000000000
+      internalID: -2431970054147871014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benchGas
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1533
+        width: 36
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1fed34e527860b0800000000000000
+      internalID: -5735208376265150031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post 3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1533
+        width: 7
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd482f6a51c74cf0800000000000000
+      internalID: -268033058649125426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas station_ground
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1563
+        width: 284
+        height: 106
+      alignment: 9
+      pivot: {x: 0.556338, y: 0.056603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f3ec9fcdddbc4d0800000000000000
+      internalID: -3113150776242979069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodCart_1
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1862
+        width: 45
+        height: 28
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be1b5cd82dd7a80800000000000000
+      internalID: -8467380218037671060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodCart_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1828
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d61b956c4e7d00800000000000000
+      internalID: 972298568835977908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house abandoned_1
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 963
+        width: 240
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56288c7402f53b300800000000000000
+      internalID: 266661395192906341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house abandoned_2
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 965
+        width: 239
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4943d2b465ff020800000000000000
+      internalID: 2377714009155867808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house abandoned_3
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1185
+        width: 240
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a50310872f38660800000000000000
+      internalID: 7387014411047688833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden long_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 739
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4b653c71ffd940800000000000000
+      internalID: 5323238800349678525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden short_3
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 839
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450383686220791c0800000000000000
+      internalID: -4497123338422308780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden short_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 772
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37073de558e75d060800000000000000
+      internalID: 6977622308967116915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon shop
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1932
+        width: 182
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc775d2e79293b1d0800000000000000
+      internalID: -3336161717908047921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop abandoned
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1949
+        width: 152
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b47df72044ed10800000000000000
+      internalID: 2153917062290126008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtTileD
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1689
+        width: 118
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c2466971de82f0800000000000000
+      internalID: -968606550501179275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtTileC
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1727
+        width: 118
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a99f2fa6105b00800000000000000
+      internalID: 815176474227747173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

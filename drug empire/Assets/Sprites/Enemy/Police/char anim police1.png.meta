@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: b56e760db821fb4499df439ce4f764a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5694212344046211128
+    second: police_idle0
+  - first:
+      213: 422889674352807515
+    second: police_idle1
+  - first:
+      213: -2030088584235631101
+    second: police_idle2
+  - first:
+      213: -907813920270944307
+    second: police_idle3
+  - first:
+      213: 2759672529030105566
+    second: police_walk_right0
+  - first:
+      213: -9070346715910111685
+    second: police_walk_right1
+  - first:
+      213: 8606020871255024048
+    second: police_walk_right2
+  - first:
+      213: 4274107551437387308
+    second: police_walk_right3
+  - first:
+      213: 8151105147635727282
+    second: police_walk_right4
+  - first:
+      213: 160398685108768155
+    second: police_walk_right5
+  - first:
+      213: 5620698156317459417
+    second: police_walk_right6
+  - first:
+      213: 5334867520574923580
+    second: police_walk_right07
+  - first:
+      213: -9082748814804546198
+    second: police_walk_left0
+  - first:
+      213: -5116490138482315964
+    second: police_walk_left1
+  - first:
+      213: -698242538831104784
+    second: police_walk_left2
+  - first:
+      213: -6380797024449403281
+    second: police_walk_left3
+  - first:
+      213: -2442313137342640237
+    second: police_walk_left4
+  - first:
+      213: -1771155149368118598
+    second: police_walk_left5
+  - first:
+      213: -5156538583304007338
+    second: police_walk_left6
+  - first:
+      213: 357523641536216572
+    second: police_walk_left7
+  - first:
+      213: 7641643710351053854
+    second: police_walk_down0
+  - first:
+      213: -4769413214042066378
+    second: police_walk_down1
+  - first:
+      213: 812313570514675177
+    second: police_walk_down2
+  - first:
+      213: 3297438636446785591
+    second: police_walk_down3
+  - first:
+      213: -5622468975745102638
+    second: police_walk_down4
+  - first:
+      213: -116895683891498645
+    second: police_walk_down5
+  - first:
+      213: -7498066220997819254
+    second: police_walk_up0
+  - first:
+      213: -5992607959648167923
+    second: police_walk_up1
+  - first:
+      213: -4843043390554067457
+    second: police_walk_up2
+  - first:
+      213: 9115770123841398716
+    second: police_walk_up3
+  - first:
+      213: 946098015132793852
+    second: police_walk_up4
+  - first:
+      213: 4682200961647799595
+    second: police_walk_up5
+  - first:
+      213: 1206900512284689548
+    second: char anim police1_32
+  - first:
+      213: 2572816788220679992
+    second: char anim police1_33
+  - first:
+      213: 5349872495801986458
+    second: char anim police1_34
+  - first:
+      213: 3567395868433277619
+    second: char anim police1_35
+  - first:
+      213: -7057281498801991897
+    second: char anim police1_36
+  - first:
+      213: -3516844720247091610
+    second: char anim police1_37
+  - first:
+      213: -1014620176050456115
+    second: char anim police1_38
+  - first:
+      213: -6357652909976223600
+    second: char anim police1_39
+  - first:
+      213: 6959056324956389138
+    second: char anim police1_40
+  - first:
+      213: 9090093369753755813
+    second: char anim police1_41
+  - first:
+      213: 4588486921629789763
+    second: char anim police1_42
+  - first:
+      213: -8689681418909583725
+    second: char anim police1_43
+  - first:
+      213: 4653250955573398793
+    second: char anim police1_44
+  - first:
+      213: 907914933088698677
+    second: char anim police1_45
+  - first:
+      213: -1244830516880288867
+    second: char anim police1_46
+  - first:
+      213: -2052963319644248584
+    second: char anim police1_47
+  - first:
+      213: -4086750442195280819
+    second: char anim police1_48
+  - first:
+      213: 5514028210444967840
+    second: char anim police1_49
+  - first:
+      213: -2720566234688589695
+    second: char anim police1_50
+  - first:
+      213: 6495174367692898697
+    second: char anim police1_51
+  - first:
+      213: 5442192555970190926
+    second: char anim police1_52
+  - first:
+      213: 1312248300811380771
+    second: char anim police1_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: police_idle0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2b75da081af0b0800000000000000
+      internalID: -5694212344046211128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_idle1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 576
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ecaf21be76ed500800000000000000
+      internalID: 422889674352807515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_idle2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 576
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3f02403da3d3e0800000000000000
+      internalID: -2030088584235631101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_idle3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 576
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc77810ac0cc663f0800000000000000
+      internalID: -907813920270944307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 528
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94e353b835c4620800000000000000
+      internalID: 2759672529030105566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 528
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3efb88f7b7af1280800000000000000
+      internalID: -9070346715910111685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 528
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e0c0c26abe6770800000000000000
+      internalID: 8606020871255024048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 528
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c267d3f3c2ea05b30800000000000000
+      internalID: 4274107551437387308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 528
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7fa302fa8e1170800000000000000
+      internalID: 8151105147635727282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 528
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d095811c9d93200800000000000000
+      internalID: 160398685108768155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 528
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3cef4813bb00e40800000000000000
+      internalID: 5620698156317459417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_right07
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 528
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3323af9eb1490a40800000000000000
+      internalID: 5334867520574923580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 480
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d897d431893f180800000000000000
+      internalID: -9082748814804546198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 481
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de8fec3539ef8b0800000000000000
+      internalID: -5116490138482315964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b7e14c185f46f0800000000000000
+      internalID: -698242538831104784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 480
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e2d5c9ead277a0800000000000000
+      internalID: -6380797024449403281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 480
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0c6a34292b1ed0800000000000000
+      internalID: -2442313137342640237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 480
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab23fcf86c79b67e0800000000000000
+      internalID: -1771155149368118598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651919f9a7b4078b0800000000000000
+      internalID: -5156538583304007338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_left7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 480
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdf1949bdd26f400800000000000000
+      internalID: 357523641536216572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_down0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 432
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e149297a7729c0a60800000000000000
+      internalID: 7641643710351053854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_down1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 432
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f7f583f3afcdb0800000000000000
+      internalID: -4769413214042066378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_down2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 432
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a1c873eae54b00800000000000000
+      internalID: 812313570514675177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_down3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 432
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302f0228fad2cd20800000000000000
+      internalID: 3297438636446785591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_down4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 432
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc0f04714af8f1b0800000000000000
+      internalID: -5622468975745102638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_down5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 432
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61feddaef3b06ef0800000000000000
+      internalID: -116895683891498645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_up0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 384
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84c11b9f7481f790800000000000000
+      internalID: -7498066220997819254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_up1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081ef69fcaf5dca0800000000000000
+      internalID: -5992607959648167923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_up2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 384
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda83222bd0accb0800000000000000
+      internalID: -4843043390554067457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_up3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 384
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76fa551a8b18e70800000000000000
+      internalID: 9115770123841398716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_up4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 384
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb31b2d127312d00800000000000000
+      internalID: 946098015132793852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_walk_up5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 384
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d620e97f48af040800000000000000
+      internalID: 4682200961647799595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3be12db01f3093d4ab7a0fe5301f09d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

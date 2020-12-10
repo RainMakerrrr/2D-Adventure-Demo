@@ -1,0 +1,12 @@
+<dialogue name="DealerQuestUnCompleted">
+  <node id="0" npcText="Ты принёс то, что должен был?">
+    <answer text="Да" toNode="1" />
+    <answer text="Нет" exit = "True" />
+  </node>
+  <node id="1" npcText="Хорошо, дай мне посмотреть минутку">
+    <answer text="" toNode="2" />
+  </node>
+  <node id="2" npcText="Нет, чувак, здесь не хватает стаффа. Найди ещё и возвращайся.">
+    <answer text="Угу" exit = "True"/>
+  </node>
+</dialogue>

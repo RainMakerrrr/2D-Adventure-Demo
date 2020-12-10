@@ -1,0 +1,8 @@
+<dialogue name="SecondQuestDialogue">
+  <node id="0" npcText="Йоу отправил ко мне тот чувак?">
+    <answer text="Да" toNode="1" />
+  </node>
+  <node id="1" npcText="Окей, я передам ему, что мы говорили ">
+    <answer text="Хорошо, я тогда пойду" exit = "True" /> 
+  </node>
+</dialogue>

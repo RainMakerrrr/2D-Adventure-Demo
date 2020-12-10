@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d35f43392ee0fe48a331d185d33ac13, type: 3}
+  m_Name: ChestRed
+  m_EditorClassIdentifier: 
+  savePath: /Inventory.SaveChestBlue
+  slotCapacity: 5
+  money: 0
+  backpackCapacity: {fileID: 11400000, guid: a9372ce92e8315541a4130f07decc1a9, type: 2}
+  characterLevel: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  slots: []
+  defaultSlots:
+  - item: {fileID: 11400000, guid: cca660809369d904893c53f33ff6a1f6, type: 2}
+    _slotUI: {fileID: 0}
+    ID: 0
+    amount: 2
+    buyPrice: 0
+    sellPrice: 0
+  - item: {fileID: 11400000, guid: 882a475a7e5bda0408b67ea489f0c46f, type: 2}
+    _slotUI: {fileID: 0}
+    ID: 0
+    amount: 1
+    buyPrice: 0
+    sellPrice: 0
+  database: {fileID: 11400000, guid: 6a63aa55da679bc44aa2b0dc76cc56c1, type: 2}

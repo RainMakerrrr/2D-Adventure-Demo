@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0e2178b8c3468ea0211235b8402fc2, type: 3}
+  m_Name: Delivery heroin
+  m_EditorClassIdentifier: 
+  OnQuestCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  Goals:
+  - _description: 
+    _quest: {fileID: 11400000}
+    _isCompleted: 0
+    _currentAmount: 0
+    _requiredAmount: 1
+  _name: "\u0413\u0435\u0440\u043E\u0438\u043D"
+  _description: "\u041F\u0440\u0438\u043D\u0435\u0441\u0438 \u0433\u0435\u0440\u043E\u0438\u043D"
+  _experienceReward: 80
+  _isCompleted: 0
+  _isAssigned: 0
+  _level: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  _deadlineTime: 0
+  _itemObject: {fileID: 11400000, guid: e5976f3258af5d1459edd266ea464289, type: 2}
+  _stuffAmount: 1
+  _questIcon: {fileID: -379778320392006015, guid: dd4c00221fc41504095d3bfd923e7aab,
+    type: 3}

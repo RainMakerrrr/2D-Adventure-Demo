@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32a1cafd5714d18bce767c5e81776fb, type: 3}
+  m_Name: Take soda
+  m_EditorClassIdentifier: 
+  OnQuestCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  Goals:
+  - _description: 
+    _quest: {fileID: 11400000}
+    _isCompleted: 0
+    _currentAmount: 0
+    _requiredAmount: 1
+  _name: "\u0421\u043E\u0434\u0430"
+  _description: "\u0414\u043E\u0441\u0442\u0430\u043D\u044C \u0441\u043E\u0434\u044B"
+  _experienceReward: 50
+  _isCompleted: 0
+  _isAssigned: 0
+  _level: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  _dialogueFile: 
+  _deadlineTime: 0
+  _itemObject: {fileID: 11400000, guid: 882a475a7e5bda0408b67ea489f0c46f, type: 2}
+  _backpack: {fileID: 11400000, guid: 1bd40590e11c8e64ba70368954a7301d, type: 2}
+  _stuffAmount: 1
+  _questIcon: {fileID: 7584802808651342616, guid: 5614834776633864aab1295fbee47fb0,
+    type: 3}

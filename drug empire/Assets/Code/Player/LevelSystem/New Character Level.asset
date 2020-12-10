@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a550032dd7c867e438f6660548d7fb8b, type: 3}
+  m_Name: New Character Level
+  m_EditorClassIdentifier: 
+  _currentLevel: 1
+  _currentExperience: 0
+  _goalExperienceForNextLevel: 800
+  _skillPoints: 0
+  _amountExperienceForNextLevels: 20030000b0040000080700008c0a0000c40e0000ac140000f01c000084280000b9380000694f0000
+  _maxLevel: 9

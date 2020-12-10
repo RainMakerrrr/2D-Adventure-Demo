@@ -1,0 +1,11 @@
+<dialogue name="FirstQuestCompleted">
+  <node id="0" npcText="Ты принёс то, что должен был?">
+    <answer text="Да" toNode="1" />
+  </node>
+  <node id="1" npcText="Хорошо, дай мне посмотреть минутку ">
+    <answer text="" toNode="2" />
+  </node>
+  <node id="2" npcText="Нет чувак, здесь не хватает стаффа, возвращайся, когда найдёшь ещё.">
+    <answer text="Ок" exit = "True" />
+  </node>
+</dialogue>

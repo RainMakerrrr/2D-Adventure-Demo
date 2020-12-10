@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0e2178b8c3468ea0211235b8402fc2, type: 3}
+  m_Name: test give item 1
+  m_EditorClassIdentifier: 
+  OnQuestCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  Goals:
+  - _description: "\u0421\u0431\u0435\u0433\u0430\u0439 \u043F\u0440\u0438\u043D\u0435\u0441\u0438
+      \u043A\u043E\u043A\u0430\u0438\u043D\u0430 \u0447\u0443\u0432\u0430\u043A\u0447\u043E\u043A"
+    _quest: {fileID: 11400000}
+    _isCompleted: 0
+    _currentAmount: 0
+    _requiredAmount: 1
+  _name: "\u041A\u043E\u043A\u0430\u0438\u043D"
+  _description: "\u041F\u0440\u0438\u043D\u0435\u0441\u0438 \u043A\u043E\u043A\u0430\u0438\u043D\u0430"
+  _experienceReward: 100
+  _isCompleted: 0
+  _isAssigned: 0
+  _level: {fileID: 11400000, guid: e32083dc11be61d46bee45471104d930, type: 2}
+  _dialogueFile: FirstQuest
+  _deadlineTime: 12
+  _itemObject: {fileID: 11400000, guid: 9a688e2f39036484aa0d1d5934ab3299, type: 2}
+  _backpack: {fileID: 11400000, guid: 1bd40590e11c8e64ba70368954a7301d, type: 2}
+  _stuffAmount: 1
+  _questIcon: {fileID: -379778320392006015, guid: dd4c00221fc41504095d3bfd923e7aab,
+    type: 3}
